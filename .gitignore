@@ -42,3 +42,5 @@ application.properties
 
 # Игнорировать log4j.properties во всех ветках
 log4j.properties
+
+/logs/
